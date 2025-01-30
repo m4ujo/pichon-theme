@@ -2,7 +2,7 @@
   "name": "pichon-theme",
   "displayName": "Pichon Theme",
   "description": "A dark theme inspired by Catppuccin color and Dark Modern style, designed to help you fly over your code with ease",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "m4ujo",
   "icon": "icon.png",
   "engines": {
