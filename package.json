@@ -4,6 +4,7 @@
   "description": "A dark theme inspired by Catppuccin color and Dark Modern style, designed to help you fly over your code with ease",
   "version": "1.0.0",
   "publisher": "m4ujo",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.96.0"
   },
