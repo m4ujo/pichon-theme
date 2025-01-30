@@ -1,8 +1,8 @@
 {
   "name": "pichon-theme",
   "displayName": "Pichon Theme",
-  "description": "",
-  "version": "0.0.1",
+  "description": "A dark theme inspired by Catppuccin color and Dark Modern style, designed to help you fly over your code with ease",
+  "version": "1.0.0",
   "publisher": "m4ujo",
   "engines": {
     "vscode": "^1.96.0"
