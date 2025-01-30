@@ -1,0 +1,33 @@
+{
+  "name": "pichon-theme",
+  "displayName": "Pichon Theme",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "m4ujo",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "keywords": [
+    "themes",
+    "color themes",
+    "m4ujo",
+    "pichon theme",
+    "pichon"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m4ujo/pichon-theme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pichon Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-color-theme.json"
+      }
+    ]
+  }
+}
