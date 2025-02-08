@@ -1,7 +1,4 @@
-<div style="text-align: center">
-  <img src="./icon.png" height=130 />
-  <h1 style="text-align:center; margin-top: 20px">Pichon Theme</h1>
-</div>
+# Pichon Theme
 
 Pichon Theme is a darker and more refined version of the default VS Code theme (Dark Modern). Its interface retains the original essence but with improved contrast for a more pleasant visual experience.
 
