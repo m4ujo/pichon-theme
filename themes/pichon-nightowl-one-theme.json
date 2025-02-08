@@ -1,6 +1,7 @@
 {
 	"name": "Pichon One: Night Owl",
 	"type": "Dark",
+  "semanticHighlighting": false,
 	"colors": {
 		"actionBar.toggledBackground": "#383a49",
 		"activityBar.activeBorder": "#0078d4",

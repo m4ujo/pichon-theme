@@ -1,6 +1,7 @@
 {
 	"name": "Pichon One: Github",
 	"type": "Dark",
+	"semanticHighlighting": true,
 	"colors": {
 		"actionBar.toggledBackground": "#383a49",
 		"activityBar.activeBorder": "#0078d4",
@@ -944,7 +945,6 @@
 		//"window.activeBorder": null,
 		//"window.inactiveBorder": null
 	},
-  "semanticHighlighting": true,
   "tokenColors": [
     {
       "scope": [
