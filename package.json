@@ -1,8 +1,8 @@
 {
   "name": "pichon-theme",
   "displayName": "Pichon Theme",
-  "description": "A dark theme inspired by Catppuccin color and Dark Modern style, designed to help you fly over your code with ease",
-  "version": "1.0.3",
+  "description": "Pichon Theme: Dark Modern, but even darker. Deep, refined tones with token colors inspired by top themes",
+  "version": "1.1.0",
   "publisher": "m4ujo",
   "icon": "icon.png",
   "engines": {
@@ -25,9 +25,55 @@
   "contributes": {
     "themes": [
       {
-        "label": "Pichon Theme",
+        "label": "Pichon Core: Basic",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark-color-theme.json"
+        "path": "./themes/pichon-theme.json"
+      },
+      {
+        "label": "Pichon Core: Github",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pichon-github-theme.json"
+      },
+      {
+        "label": "Pichon Core: Catppuccin",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pichon-catppuccin-theme.json"
+      },
+      {
+        "label": "Pichon Core: One Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pichon-onedark-theme.json"
+      },
+      {
+        "label": "Pichon Core: Night Owl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pichon-nightowl-theme.json"
+      },
+
+      {
+        "label": "Pichon One: Basic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pichon-one-theme.json"
+      },      
+      {
+        "label": "Pichon One: Github",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pichon-github-one-theme.json"
+      },
+      {
+        "label": "Pichon One: Catppuccin",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pichon-catppuccin-one-theme.json"
+      },
+      {
+        "label": "Pichon One: One Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pichon-onedark-one-theme.json"
+      },
+      {
+        "label": "Pichon One: Night Owl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pichon-nightowl-one-theme.json"
       }
     ]
   }
